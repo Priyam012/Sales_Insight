@@ -1,5 +1,5 @@
 # Sales Insight Dashboard
-### Dashboards for sales for a multinational manufacturing company.
+Dashboards for sales for a multinational manufacturing company.
 # Situation
 I have sales data from 2010 to 2014 for a product-based company, and I need to determine the company's year-over-year, quarter-over-quarter, and month-over-month sales increment, fluctuation, and growth.
 # Task
